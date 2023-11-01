@@ -40,7 +40,6 @@ Fonts are separated by a & */
 body {
   max-width: 960px;
   margin: 0 auto;
-  padding: 4em;
   font-size: 18px;
   text-align: center;
   background-color: #547AA5;
@@ -239,7 +238,7 @@ main section {
   background-color: #547AA5;
   grid-column: 6/10;
   grid-row:6/7;
-  padding: 1px;
+  padding: 20px;
   grid-column: 6/10;
   grid-row: 5/6;
   box-shadow: 5px 5px 10px #6f7364;
