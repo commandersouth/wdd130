@@ -57,7 +57,7 @@ header {
   padding: 1em;
   text-align: center;
   color: var(--headline-color-on-color);
-  background-color: var(--paragraph-background-color);
+  background-color: var(--primary-color);
 }
 header > h1, header > h2 {
   color: var(--headline-color-on-color);
